@@ -1,6 +1,6 @@
 ### Summary: Include screen shots or a video of your app highlighting its features
 
-- [Screenshot/Video here]
+- [Recording](https://github.com/MichaelJBerk/MBerkFetch/raw/refs/heads/main/Recording.mov)
 
 ### Focus Areas: What specific areas of the project did you prioritize? Why did you choose to focus on these areas?
 
